@@ -5,7 +5,7 @@
 <p>Email: willacecandelario@email.com</p>
 
 <p>GitHub:
-<a href="https://github.com/yourusername">
+<a href="https://github.com/willacecandelario">
 github.com/yourusername
 </a>
 </p>
